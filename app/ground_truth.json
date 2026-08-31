@@ -1,0 +1,20 @@
+{
+  "eval_strong_001": "STRONG_CASE",
+  "eval_strong_002": "STRONG_CASE",
+  "eval_strong_003": "STRONG_CASE",
+  "eval_strong_004": "STRONG_CASE",
+  "eval_strong_005": "STRONG_CASE",
+  "eval_strong_006": "STRONG_CASE",
+  "eval_strong_007": "STRONG_CASE",
+  "eval_weak_001": "WEAK_CASE",
+  "eval_weak_002": "WEAK_CASE",
+  "eval_weak_003": "WEAK_CASE",
+  "eval_weak_004": "WEAK_CASE",
+  "eval_weak_005": "WEAK_CASE",
+  "eval_weak_006": "WEAK_CASE",
+  "eval_weak_007": "WEAK_CASE",
+  "eval_border_001": "WEAK_CASE",
+  "eval_border_002": "WEAK_CASE",
+  "eval_border_003": "WEAK_CASE",
+  "eval_border_004": "WEAK_CASE"
+}

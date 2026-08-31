@@ -1,0 +1,10 @@
+venv/
+.env
+*.db
+*.db-shm
+*.db-wal
+__pycache__/
+*.pyc
+output/
+.pytest_cache/
+eval_results.json
