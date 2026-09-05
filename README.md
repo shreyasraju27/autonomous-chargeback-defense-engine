@@ -1,6 +1,6 @@
 ﻿# Autonomous Chargeback Defense Engine
 
-An autonomous, multi-agent AI system that automatically gathers evidence for payment disputes and chargebacks - built for the Razorpay AI Buildathon (Track: AI Risk Manager).
+An autonomous, multi-agent AI system that automatically gathers evidence for payment disputes and chargebacks 
 
 ## The Problem
 
